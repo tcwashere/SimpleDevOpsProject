@@ -22,3 +22,4 @@ Design a Jenkins CI/CD application deployment pipeline to Kubernetes on the AWS 
 3. Jenkins build pushed docker image to ECR
 4. Jenkins deploy application image to EKS
 5. User should be able to test deployed application with browser
+6. Project time to develop this CI/CD project is with 3 days
