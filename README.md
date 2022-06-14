@@ -9,7 +9,7 @@ Design a Jenkins CI/CD application deployment pipeline to Kubernetes on the AWS 
 
 ## Requirements
 
-- Done on AWS Infrastructure
+- AWS Infrastructure
 - VPC following AWS best practice with public and private subnets
 - Jenkins
 - GitOps or equivalent
