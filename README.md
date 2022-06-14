@@ -4,7 +4,7 @@
 
 ---
 
-# DevOps Project
+# Instructions
 Design a Jenkins CI/CD application deployment pipeline to Kubernetes on the AWS infrastructure. Users may use any basic "Hello World" application for deployment.
 
 ## Requirements
